@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Plan IP="172.31.3.18" Port="21" Path="CH01" ChannelName="新闻综合" ChannelID="CH01">
+  <Row ProgName="测试" StartTD="2014-01-20 11:06:01" EndTD="2014-01-20 12:06:01" Len="01:00:00:00" SubmitUser="lyq" SubmitDate="2014-01-20 11:08:26" DestPath="/gv1/makermaked1" Remark="" />
+</Plan>

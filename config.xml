@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<money制作成本>money</money制作成本>
+	<测试2>测试2</测试2>
+	<dirs>
+		<dir>/d:</dir>
+		<dir>/C:</dir>
+	</dirs>
+</root>
